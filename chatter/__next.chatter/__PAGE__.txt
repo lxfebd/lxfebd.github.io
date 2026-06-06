@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[5727,["17","static/chunks/17-a13b3e0209d7b9dd.js","287","static/chunks/287-3d58586054b5e1bc.js","20","static/chunks/app/chatter/page-6fc3d51569f2bdda.js"],"default"]
+3:I[7877,["17","static/chunks/17-a13b3e0209d7b9dd.js","287","static/chunks/287-3d58586054b5e1bc.js","20","static/chunks/app/chatter/page-6fc3d51569f2bdda.js"],"default"]
+4:I[589,["17","static/chunks/17-a13b3e0209d7b9dd.js","287","static/chunks/287-3d58586054b5e1bc.js","20","static/chunks/app/chatter/page-6fc3d51569f2bdda.js"],"default"]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"chatters":[{"slug":"2026-03-25-originium-research","title":"源石结晶与目标蛋白结合的猜想","date":"2026-03-25 03:00:01","tags":["明日方舟","学术脑洞","日常"],"mood":"思考","cover":"https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg","content":"\n今天在跑 MolGTC 模型的图神经网络筛选时，看着那些小分子的拓扑结构，突然串台到了泰拉大陆的源石病机制。\n\n如果把源石（Originium）结晶过程视作一种极端暴烈的**分子自组装**行为，它在感染者体内的增殖，会不会类似于某种不可逆的激酶靶点结合？就像我们针对 STAT3 或者 JAK2 寻找抑制剂一样，罗德岛的矿石病抑制剂，本质上可能就是一种能与源石活性位点产生极强亲和力的“竞争性拮抗剂”。\n\n> 物理规律在不同维度的宇宙中或许殊途同归。\n\n晚点把这周的 GROMACS 跑完，要是收敛得好，周末开两把肉鸽奖励一下自己，嘿嘿"}]}]}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FyNjswTwB3QE7JEVXTKHP"}
+7:null

@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[3435,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"ThemeProvider"]
+3:I[2072,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+4:I[6241,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"MusicProvider"]
+5:I[1166,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+6:I[5260,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+7:I[6131,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+8:I[7121,[],""]
+9:I[4581,[],""]
+14:I[7123,[],"default",1]
+:HL["/_next/static/css/328390529434bf2d.css","style"]
+:HL["/_next/static/css/46493229dd9d4e67.css","style"]
+:HL["/_next/static/css/6dd657f1797c2b17.css","style"]
+:HL["/_next/static/css/0f707cd0b07b2440.css","style"]
+:HL["/_next/static/css/7f6bd37aab40623f.css","style"]
+0:{"P":null,"c":["","about"],"q":"","i":false,"f":[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/328390529434bf2d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/46493229dd9d4e67.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/6dd657f1797c2b17.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_246ccd __variable_4c40f6 __variable_5e8a36 h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[["$","$L5",null,{}],["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #FFB6C1, #87CEEB, #98FB98, #DDA0DD)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L6",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L7",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$La","$Lb","$Lc","$Ld"]}],"$Le"]}],"$Lf"]}]}]]}]]}],{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"FyNjswTwB3QE7JEVXTKHP"}
+15:I[3976,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+16:I[1481,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+17:I[9126,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+18:I[9536,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+19:I[7068,["17","static/chunks/17-a13b3e0209d7b9dd.js","177","static/chunks/app/layout-9e0b6065fa5396f6.js"],"default"]
+1b:I[484,[],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1f:I[484,[],"ViewportBoundary"]
+21:I[484,[],"MetadataBoundary"]
+a:["$","div",null,{"className":"hidden md:block","children":["$","$L15",null,{}]}]
+b:["$","div",null,{"className":"hidden md:block","children":["$","$L16",null,{}]}]
+c:["$","div",null,{"className":"md:hidden block","children":["$","$L17",null,{}]}]
+d:["$","div",null,{"className":"hidden md:block","children":["$","$L18",null,{}]}]
+e:["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              @keyframes gradientMove { \n                0% { background-position: 0% 50%; } \n                50% { background-position: 100% 50%; } \n                100% { background-position: 0% 50%; } \n              }\n            "}}]
+f:["$","div",null,{"className":"hidden md:block","children":["$","$L19",null,{}]}]
+10:["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L1a",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f707cd0b07b2440.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}]
+1e:[]
+12:"$W1e"
+13:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L22"}]}]}],null]}]
+23:I[5727,["848","static/chunks/c71c6b34-2f151dbced112a21.js","17","static/chunks/17-a13b3e0209d7b9dd.js","287","static/chunks/287-3d58586054b5e1bc.js","60","static/chunks/60-07d9c34b90e5c8f3.js","537","static/chunks/537-e9895bebe1e2c3d9.js","220","static/chunks/app/about/page-a8b473d975173438.js"],"default"]
+24:I[7877,["848","static/chunks/c71c6b34-2f151dbced112a21.js","17","static/chunks/17-a13b3e0209d7b9dd.js","287","static/chunks/287-3d58586054b5e1bc.js","60","static/chunks/60-07d9c34b90e5c8f3.js","537","static/chunks/537-e9895bebe1e2c3d9.js","220","static/chunks/app/about/page-a8b473d975173438.js"],"default"]
+25:T1fc5,
+            .prose h1 { font-size: 1.8rem !important; font-weight: 900 !important; margin-bottom: 1.2rem !important; margin-top: 2rem !important; line-height: 1.3 !important; color: inherit !important; }
+            .prose h2 { font-size: 1.5rem !important; font-weight: 800 !important; margin-bottom: 1rem !important; margin-top: 1.5rem !important; color: inherit !important; }
+            .prose h3 { font-size: 1.2rem !important; font-weight: 700 !important; margin-bottom: 0.8rem !important; color: inherit !important; }
+            .prose p { font-size: 0.95rem !important; line-height: 1.75 !important; color: inherit !important; }
+            
+            .prose a { color: #6366f1 !important; text-decoration: none !important; font-weight: 600 !important; border-bottom: 1px dashed #6366f1 !important; transition: all 0.3s ease !important; }
+            .prose a:hover { color: #4f46e5 !important; border-bottom-style: solid !important; background-color: rgba(99, 102, 241, 0.1) !important; padding: 0 0.2rem !important; border-radius: 0.2rem !important; }
+            .dark .prose a { color: #818cf8 !important; border-bottom-color: #818cf8 !important; }
+            .dark .prose a:hover { color: #a5b4fc !important; background-color: rgba(129, 140, 248, 0.15) !important; }
+
+            .prose ul { list-style-type: disc !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+            .prose ol { list-style-type: decimal !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+            .prose li { display: list-item !important; margin-bottom: 0.5rem !important; }
+            
+            .prose ul ul, .prose ol ul { list-style-type: circle !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+            .prose ol ol, .prose ul ol { list-style-type: lower-alpha !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+            
+            /* 🌟 删除线强制展现 */
+            .prose s, .prose del { text-decoration-line: line-through !important; opacity: 0.6; }
+
+            /* 🌟 引用块专属果冻极客风样式补丁 */
+            .prose blockquote {
+              border-left: 4px solid #6366f1 !important;
+              background-color: rgba(99, 102, 241, 0.05) !important;
+              padding: 1rem 1.5rem !important;
+              margin: 1.5rem 0 !important;
+              border-radius: 0 1.25rem 1.25rem 0 !important;
+              font-style: italic !important;
+              color: #64748b !important;
+              quotes: none !important; /* 强制移除 Tailwind 原生的丑陋大引号 */
+            }
+            .prose blockquote p {
+              margin: 0 !important; 
+              color: inherit !important;
+            }
+            /* 🌟 彻底杀掉 Tailwind Typography 生成的前后伪元素引号！ */
+            .prose blockquote p::before,
+            .prose blockquote p::after {
+              display: none !important;
+              content: none !important;
+            }
+            
+            .dark .prose blockquote {
+              border-left-color: #818cf8 !important;
+              background-color: rgba(129, 140, 248, 0.1) !important;
+              color: #94a3b8 !important;
+            }
+            
+            /* 🌟 果冻极客风代码字体：更圆滑、更饱满！大圆角拉满！ */
+            .prose pre {
+              background-color: #282c34 !important; color: #abb2bf !important;
+              padding: 1rem !important; border-radius: 1.25rem !important;
+              overflow-x: auto !important; box-shadow: inset 0 0 10px rgba(0,0,0,0.3) !important;
+              margin-top: 1rem !important; margin-bottom: 1rem !important;
+            }
+            
+            .prose pre code, .prose p code, .prose li code { 
+              font-family: ui-rounded, 'Quicksand', 'Nunito', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Source Code Pro', Menlo, Monaco, Consolas, monospace !important;
+              font-variant-ligatures: contextual !important;
+              font-weight: 500 !important;
+              letter-spacing: 0.02em !important;
+            }
+            
+            .prose pre code { 
+              background-color: transparent !important; 
+              padding: 0 !important; 
+              color: inherit !important; 
+              font-size: 0.85em !important; 
+            }
+            
+            .prose code::before, .prose code::after { content: none !important; }
+            
+            .prose p code, .prose li code { 
+              background-color: rgba(99, 102, 241, 0.1) !important; color: #6366f1 !important; 
+              padding: 0.2rem 0.4rem !important; border-radius: 0.5rem !important; font-size: 0.85em !important; 
+            }
+            .dark .prose p code, .dark .prose li code { background-color: rgba(99, 102, 241, 0.2) !important; color: #818cf8 !important; }
+            
+            /* 🌟 确保前台生成的 <br> 占据真实的垂直空间 */
+            .prose br { display: block !important; content: "" !important; margin-top: 0.5em !important; }
+
+            .prose img { display: block !important; margin: 1.5rem auto !important; border-radius: 1rem !important; box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important; max-width: 100% !important; height: auto !important; }
+
+            /* 🌟 Atom One Dark 顶级补丁 */
+            .prose pre code .hljs-comment, .prose pre code .hljs-quote { color: #5c6370 !important; font-style: italic !important; }
+            .prose pre code .hljs-doctag, .prose pre code .hljs-keyword, .prose pre code .hljs-formula { color: #c678dd !important; }
+            .prose pre code .hljs-keyword.type_, .prose pre code .hljs-type { color: #c678dd !important; } 
+            .prose pre code .hljs-section, .prose pre code .hljs-name, .prose pre code .hljs-selector-tag, .prose pre code .hljs-deletion, .prose pre code .hljs-subst { color: #e06c75 !important; }
+            .prose pre code .hljs-literal { color: #56b6c2 !important; }
+            .prose pre code .hljs-string, .prose pre code .hljs-regexp, .prose pre code .hljs-addition, .prose pre code .hljs-attribute, .prose pre code .hljs-meta-string { color: #98c379 !important; }
+            .prose pre code .hljs-built_in, .prose pre code .hljs-class .hljs-title, .prose pre code .hljs-title.class_ { color: #e6c07b !important; } 
+            .prose pre code .hljs-attr, .prose pre code .hljs-variable, .prose pre code .hljs-template-variable, .prose pre code .hljs-selector-class, .prose pre code .hljs-selector-attr, .prose pre code .hljs-selector-pseudo, .prose pre code .hljs-number { color: #d19a66 !important; }
+            .prose pre code .hljs-symbol, .prose pre code .hljs-bullet, .prose pre code .hljs-link, .prose pre code .hljs-meta, .prose pre code .hljs-selector-id, .prose pre code .hljs-title, .prose pre code .hljs-title.function_ { color: #61aeee !important; } 
+
+            @media (min-width: 768px) {
+              .prose h1 { font-size: 3rem !important; font-weight: 950 !important; margin-bottom: 2rem !important; margin-top: 3rem !important; line-height: 1.1 !important; }
+              .prose h2 { font-size: 2.2rem !important; margin-bottom: 1.5rem !important; margin-top: 2rem !important; }
+              .prose h3 { font-size: 1.5rem !important; margin-bottom: 1rem !important; }
+              .prose p { font-size: 1.15rem !important; line-height: 1.85 !important; }
+              
+              .prose ul, .prose ol { padding-left: 2rem !important; font-size: 1.1rem !important; }
+              
+              .prose pre { padding: 1.25rem !important; margin-top: 1.5rem !important; margin-bottom: 1.5rem !important; border-radius: 1.5rem !important; }
+              .prose pre code { font-size: 0.9em !important; }
+              .prose p code, .prose li code { padding: 0.2rem 0.4rem !important; font-size: 0.9em !important; border-radius: 0.375rem !important;}
+              .prose img { margin: 2rem auto !important; border-radius: 2rem !important; box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important; }
+            }
+          1a:["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L23",null,{}],["$","$L24",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-4xl mx-auto mt-24 md:mt-28 relative z-10","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$25"}}],"$L26"]}]}]]}]
+27:I[4189,["848","static/chunks/c71c6b34-2f151dbced112a21.js","17","static/chunks/17-a13b3e0209d7b9dd.js","287","static/chunks/287-3d58586054b5e1bc.js","60","static/chunks/60-07d9c34b90e5c8f3.js","537","static/chunks/537-e9895bebe1e2c3d9.js","220","static/chunks/app/about/page-a8b473d975173438.js"],"default"]
+26:["$","$1c",null,{"fallback":["$","div",null,{"className":"h-96 flex items-center justify-center text-slate-500 font-bold animate-pulse","children":"正在载入档案..."}],"children":["$","$L27",null,{"contentHtml":"<p>个人简介</p>\n<p>你好，我是 XingHuiSama。</p>\n<p>专注于<strong>计算化学、人工智能与软件工程</strong>的交叉应用。</p>\n<p><strong>🔬 研究与计算方向</strong></p>\n<ul>\n<li><strong>图神经网络:</strong> 用于分子性质预测与特征提取。</li>\n<li><strong>分子对接:</strong> 用于评估配体与受体蛋白的结合模式与亲和力。</li>\n<li><strong>分子动力学模拟 :</strong> 用于探究生物大分子在原子尺度的动态行为与构象变化。</li>\n</ul>\n<p><strong>💻 软件工程能力</strong></p>\n<ul>\n<li><strong>后端开发:</strong> 使用 <strong>Spring Boot</strong> 框架构建服务端架构，能够处理复杂的数据逻辑与计算任务调度。</li>\n<li><strong>前端开发:</strong> 熟练掌握 <strong>Vue.js</strong> 与 <strong>React</strong> 框架，为复杂科学数据的可视化与交互提供流畅的体验。</li>\n</ul>\n<p><strong>欢迎各位朋友联系交流~</strong></p>","coverImage":"https://bu.dusays.com/2026/03/24/69c23dc278c78.jpg","activities":[{"id":"moments-moment-1777182725435.md","type":"说说","title":"moment-1777182725435","date":"2026-04-26T05:52:05.435Z","url":"/moments/moment-1777182725435"},{"id":"moments-moment-1777171461214.md","type":"说说","title":"moment-1777171461214","date":"2026-04-26T02:44:21.214Z","url":"/moments/moment-1777171461214"},{"id":"moments-moment-1777128883968.md","type":"说说","title":"moment-1777128883968","date":"2026-04-25T14:54:43.968Z","url":"/moments/moment-1777128883968"},{"id":"posts-long-test-article.md","type":"文章","title":"多靶点激酶抑制剂筛选：从虚拟到现实的漫长征途","date":"2026-03-25T23:00:00.000Z","url":"/posts/long-test-article"},{"id":"chatters-2026-03-25-originium-research.md","type":"杂谈","title":"源石结晶与目标蛋白结合的猜想","date":"2026-03-24T19:00:01.000Z","url":"/chatter/2026-03-25-originium-research"},{"id":"posts-2222.md","type":"文章","title":"GROMACS 2025 分子动力学模拟初探2222","date":"2026-03-23T23:00:45.000Z","url":"/posts/2222"},{"id":"posts-first.md","type":"文章","title":"GROMACS 2025 分子动力学模拟初探","date":"2026-03-23T23:00:01.000Z","url":"/posts/first"}]}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+28:I[6869,[],"IconMark"]
+1d:null
+22:[["$","title","0",{"children":"罗德岛技术部"}],["$","meta","1",{"name":"description","content":"罗德岛技术部干员，在代码与二次元之间穿梭。"}],["$","link","2",{"rel":"icon","href":"/images/miku/avatar.webp"}],["$","link","3",{"rel":"apple-touch-icon","href":"/images/miku/avatar.webp"}],["$","$L28","4",{}]]
